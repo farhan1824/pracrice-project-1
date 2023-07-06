@@ -31,6 +31,7 @@ justify-content: space-around;
 .img-edit{
     height: 340px;
     border-radius: 20px;
+    box-shadow: 40px 20px 30px;
 }
 .total-background{
     background-color:#B0B9C0 ;
@@ -57,3 +58,10 @@ justify-content: space-around;
     font-weight: bold;
     margin-bottom: 20px;
 }
+/* .text{
+    border:0px solid ;
+    border-radius: 2px;
+    box-shadow: 40px 20px 30px;
+    padding: 10px;
+    margin: none;
+} */
