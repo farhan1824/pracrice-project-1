@@ -11,16 +11,49 @@
  justify-content: space-around;
  color: rgba(255, 64, 0, 0.88);
  background-color: antiquewhite;
+ height:100px ;
 
     }
 .home{
 display: flex;
 justify-content: space-around; 
+
 }  
 .break:hover{
     color: black;
+    
 }      
 .break{
     margin-right:20px;
     font-size:large;
+    cursor: pointer;
+}
+.img-edit{
+    height: 340px;
+    border-radius: 20px;
+}
+.total-background{
+    background-color:#B0B9C0 ;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+
+}
+.btn{
+    margin: 10px;
+    padding: 10px;
+    background-color: black;
+    color: wheat;
+    border-radius: 12px;
+    cursor: pointer;
+}
+.btn:hover{
+    color: azure;
+}
+.text-size{
+    font-size: 55px;
+    font-weight: bold;
+    margin-bottom: 20px;
 }
