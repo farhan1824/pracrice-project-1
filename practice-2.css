@@ -1,0 +1,39 @@
+
+
+.btn-primary{
+    padding:19px 35px  ;
+    color:  #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #FD6E0A;
+    border: 0px;
+    border-radius: 4px;
+
+}
+/* .front-page{
+    display: flex;
+    text-align: center;
+} */
+.elements-of-head{
+    display: flex;
+    justify-content:space-between;
+}
+.this-is-head{
+
+    height: 837px;
+    background-color: #FFF8F3;
+}
+.right-side{
+    display: flex;
+    
+    list-style: none;
+}
+.right-side li{
+    align-items: center;
+    margin-right:50px;
+}
+h1{
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800;
+}
