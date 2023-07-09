@@ -2,25 +2,33 @@
     margin: 0px;
     padding: 0px;
 }
-.total-header{
+/* .total-header{
     background-color:wheat;
      height: 850px;
     
-}
+} */
 
 .dev{
 
     display: flex;
-    width: auto;
+   
     justify-content: space-evenly;
+  
 }
 
-
+.header {
+    background-color: #FFF8F3;
+    background-image: url('../images/header_bg.png'), url(../images/developer.png);
+    background-repeat: no-repeat;
+    background-position: bottom right, left;
+    padding-top: 20px;
+ 
+}
 
 .heading{
     display: flex;
     justify-content:space-around;
-    padding-top: 20px;
+    
    
     
 }

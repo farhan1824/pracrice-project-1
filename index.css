@@ -22,3 +22,143 @@
 li{
     font-size: large;
 }
+.text-big{
+    color: black;
+}
+.total-background{
+    background-image: url("./image/background.jpg");
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-repeat: no-repeat;
+}
+.red-button{
+ background-color: red;
+ color: azure;
+ padding: 12px;
+ border-radius: 6px;
+ border: 0px;
+}
+.white-button{
+    background-color:azure ;
+    color: red;
+    padding: 12px 28px;
+    border-radius: 6px;
+    border: 0px;
+}
+.text-div{
+    text-align: center;
+    padding-left: 600px;
+ 
+}
+.text-style{
+    font-size: 55px;
+    font-weight: bolder;
+}
+.text-div h1 ,p{
+    padding-bottom: 20px;
+}
+.gap{
+    gap: 40px;
+}
+.second-part-of-the-baground{
+    background-color: black;
+    color: azure;
+    height: 90vh;
+    display: flex;
+    justify-content: space-around;
+}
+.left-texts{
+    padding-left: 25px;
+    padding-top: 160px;
+}
+.icon{
+    display: flex;
+    padding-top: 20px;
+   
+}
+.icons{
+    display: flex;
+    
+
+}
+.resize-images{
+    height: 150px;
+    width:150px ;
+    background-color: white;
+    padding: 40px;
+    border-radius: 8px;
+}
+.detail {
+padding-right: 40px;
+padding-left: 20px;
+padding-top: 12px;
+border-right: 1px solid red;
+
+}
+.more-details{
+padding-right: 40px;
+padding-left: 20px;
+padding-top: 12px;
+}
+.style{
+    padding-bottom: 20px;
+    padding-top: 12px;
+}
+.left-texts ol{
+    padding-left: 15px;
+}
+/* for using it as circle */
+.icon img{
+    width: 60px;
+    height: 60px;
+    border-radius: 32px;
+}
+.right-images{
+    padding-top: 200px;
+
+}
+.right-images h2{
+    text-align: center;
+}
+.first-twoimages{
+    padding-right: 80px;
+    width:250px; 
+    
+    
+}
+.second-twoimages{
+    padding-right: 80px;
+    width:250px;
+}
+.first-twoimages h2{
+    text-align: center;
+}
+.left{
+    display: flex;
+    border-right: 1px solid black;
+}
+.icon-image img{
+    height: 40px;
+    width: 40px;
+}
+.middle {
+    text-align: center;
+    justify-content: center;
+    tab-size: 155px;
+   
+    width: auto;
+}
+.appointment-center{
+    display: flex;
+    background-color: red;
+    color: white;
+    height: 130px;
+    width: 90%;
+    margin: auto;
+    padding-top: 95px;
+    border-radius: 12px;
+    margin-top: -50px;
+    text-align: center;
+    justify-content: space-around;
+}
